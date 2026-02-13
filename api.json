@@ -1,10 +1,8 @@
 {
-  "category": "DEMON_ANGEL",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/imp",
     "maintainers": [
       {
@@ -18,296 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "imp",
     "name": "Imp",
-    "aliases": [
-      {
-        "name": "Impet",
-        "language": "Old English",
-        "meaning": "Small shoot or graft"
-      },
-      {
-        "name": "Ympē",
-        "language": "Old English"
-      }
-    ],
-    "category": "DEMON_ANGEL",
-    "subcategory": "Minor Demon / Fairy",
+    "aliases": [],
+    "category": "DEMON_ANGEL_/_FAE_FOLKLORE",
+    "subcategory": "of mischievous fairy, later demonized by Christianity. Evidence: Fairy folklore parallels, pre-Christian traditions.",
     "tags": [
-      "demon",
-      "fairy",
-      "mischievous",
-      "servant-spirit",
-      "familiar",
-      "european-folklore",
-      "medieval",
-      "shape-shifter"
+      "folklore",
+      "mythology"
     ],
-    "status": "traditional_folklore",
+    "status": "documented",
     "description": {
-      "summary": "Small demon or mischievous fairy from European folklore, characterized by dual nature as either demonic servant or fairy trickster.",
-      "full": "An imp is a small supernatural creature from European folklore with a dual nature depending on tradition. In demonic tradition, imps are minor demons or devil's servants, often serving witches and sorcerers as familiar spirits, typically depicted with tails, horns, and sometimes wings. In fairy tradition, imps are mischievous sprites or tricksters causing minor chaos and pranks. Standing 6 inches to 2 feet tall, imps possess powers including shape-shifting, invisibility, minor magic, and flight. Medieval demonology strongly associated imps with witchcraft, where a witch's familiar was often called an imp. The term 'impish' derives from their mischievous behavior. In modern fantasy (D&D, video games), imps represent a standard lesser demon or mischievous creature type."
+      "summary": "An imp is a small supernatural creature from European folklore with a dual nature depending on tradition.",
+      "full": "An imp is a small supernatural creature from European folklore with a dual nature depending on tradition. In demonic tradition, imps are minor demons or devil's servants, often serving witches and sorcerers as familiar spirits, typically depicted with tails, horns, and sometimes wings. In fairy tradition, imps are mischievous sprites or tricksters causing minor chaos and pranks. Standing 6 inches to 2 feet tall, imps possess powers including shape-shifting, invisibility, minor magic, and flight. Medieval demonology strongly associated imps with witchcraft, where a witch's familiar was often called an imp. The term \\\"impish\\\" derives from their mischievous behavior. In modern fantasy (D&D, video games), imps represent a standard lesser demon or mischievous creature type."
     },
     "etymology": {
-      "origin": "From Old English 'ympa' (young shoot, graft), later 'impa' meaning offspring or child, evolved to mean small devil or demon",
-      "meaning": "Small demon, offspring of devil, mischievous sprite",
-      "first_use": "Medieval period"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "DEMON_ANGEL / FAE_FOLKLORE",
-      "type": "Dual Nature Entity",
-      "subtype": "Minor Demon OR Mischievous Fairy",
-      "variant": "European"
+      "category": "DEMON_ANGEL_/_FAE_FOLKLORE",
+      "type": "of mischievous fairy, later demonized by Christianity. Evidence: Fairy folklore parallels, pre-Christian traditions.",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "familiar",
-        "name": "Familiar",
-        "relationship": "closely_related",
-        "description": "Witch's familiar often identified as imp"
-      },
-      {
-        "id": "goblin",
-        "name": "Goblin",
-        "relationship": "similar",
-        "description": "Similar mischievous creature in folklore"
-      },
-      {
-        "id": "sprite",
-        "name": "Sprite",
-        "relationship": "similar",
-        "description": "Fairy version shares trickster characteristics"
-      },
-      {
-        "id": "gremlin",
-        "name": "Gremlin",
-        "relationship": "descended",
-        "description": "Modern evolution of imp concept"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "height": {
-        "min": 0.15,
-        "max": 0.6,
-        "unit": "meters",
-        "confidence": "medium"
-      },
-      "coloration": [
-        "red",
-        "black",
-        "gray",
-        "brown"
-      ],
-      "features": [
-        {
-          "feature": "Tail",
-          "description": "Often depicted with pointed tail (demon version)",
-          "frequency": "common"
-        },
-        {
-          "feature": "Horns",
-          "description": "Small horns (demon version)",
-          "frequency": "common"
-        },
-        {
-          "feature": "Wings",
-          "description": "Bat-like or insect-like wings (demon version)",
-          "frequency": "occasional"
-        },
-        {
-          "feature": "Size",
-          "description": "Small, typically 6 inches to 2 feet",
-          "frequency": "always"
-        },
-        {
-          "feature": "Appearance",
-          "description": "Humanoid, childlike or grotesque depending on tradition",
-          "frequency": "always"
-        }
-      ],
-      "morphology": "Small humanoid creature. Demon version: grotesque features, tail, horns, wings. Fairy version: more sprite-like, less threatening appearance."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Shape-shifting",
-        "description": "Can change form, often into animals",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Invisibility",
-        "description": "Can become invisible at will",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Minor magic",
-        "description": "Small magical tricks and pranks",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Flight",
-        "description": "Can fly (when depicted with wings)",
-        "frequency": "occasional",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Service to master",
-        "description": "Carries out magical tasks for witch or sorcerer",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "any",
-      "disposition": "mischievous",
-      "social_structure": "solitary or servant",
-      "habitat_preference": [
-        "with master (demon version)",
-        "wild places (fairy version)",
-        "homes and buildings"
-      ],
-      "patterns": [
-        "Performs pranks and mischief",
-        "Serves witch or sorcerer (demon)",
-        "Causes minor trouble (fairy)",
-        "Can be bound to service",
-        "Trickster behavior"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Traditional European folklore, particularly English, German, and broader medieval Christian demonology.",
-      "continents": ["Europe"],
-      "countries": ["England", "Germany", "France", "broader Europe"],
-      "regions": [
-        "British Isles (especially England)",
-        "Germanic regions",
-        "Medieval Christian Europe"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Medieval period",
+        "date": "Unknown",
         "circa": true,
-        "source": "Medieval manuscripts and demonology texts"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "1500s-1600s",
-          "description": "Height of witch trials and demonology literature"
-        }
-      ]
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "European folklore and medieval Christian demonology. Dual origin from both fairy traditions and demonic hierarchy.",
-      "earliest_accounts": "Medieval manuscripts and church writings on demons",
-      "folklore_connections": "Connected to fairy lore, demonology, witchcraft traditions, and familiar spirits"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "Medieval period",
-        "event": "Imp concept emerges",
-        "significance": "Small demons and mischievous sprites identified in folklore",
-        "source": "Medieval texts"
-      },
-      {
-        "date": "1500s-1600s",
-        "event": "Witch trial era",
-        "significance": "Imps strongly associated with witches as familiars",
-        "source": "Witch trial records"
-      },
-      {
-        "date": "Modern era",
-        "event": "Fantasy literature and gaming",
-        "significance": "Imps become standard creatures in fantasy media",
-        "source": "Popular culture"
-      }
-    ],
-    "modern_era": "Imps remain popular in fantasy literature, games (D&D, World of Warcraft), and media as minor demons or mischievous creatures. The term 'impish' describes playful, mischievous behavior."
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": [
-        "English witch trial folklore",
-        "Medieval demonology",
-        "European fairy tales",
-        "Familiar spirit traditions"
-      ],
-      "beliefs": "Medieval belief held imps were minor demons given by the Devil to witches. Fairy tradition viewed them as mischievous but not necessarily evil spirits."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Medieval grimoires and demonology texts",
-        "Fantasy literature (various)",
-        "Children's books featuring imps"
-      ],
-      "film_tv": [
-        "Various fantasy films and shows",
-        "Depictions in horror media"
-      ],
-      "games": [
-        "Dungeons & Dragons (imp as minor devil)",
-        "World of Warcraft (warlock imp companion)",
-        "Various fantasy RPGs and video games"
-      ],
-      "other": [
-        "Term 'impish' in common usage",
-        "Mascots and characters"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "theories": {
-    "folklore": [
-      {
-        "name": "Demonic servant",
-        "description": "Imps are minor demons, lowest rank of Hell's hierarchy, given to witches",
-        "evidence_cited": ["Medieval demonology texts", "Witch trial testimonies"]
-      },
-      {
-        "name": "Fairy origin",
-        "description": "Imps are type of mischievous fairy, later demonized by Christianity",
-        "evidence_cited": ["Fairy folklore parallels", "Pre-Christian traditions"]
-      }
-    ],
-    "cultural": [
-      {
-        "name": "Folklore fusion",
-        "description": "Imp represents merger of fairy folklore with Christian demonology",
-        "evidence_cited": ["Dual nature in different traditions", "Evolution of term and concept"]
-      }
-    ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "medieval-demonology",
-      "type": "cultural",
-      "title": "Medieval Demonology Texts",
-      "description": "Various medieval grimoires and church writings on demons"
-    },
-    {
-      "id": "witch-trials",
-      "type": "historical",
-      "title": "English and Scottish Witch Trial Records",
-      "description": "Historical records documenting imp familiars",
-      "date": "1500s-1600s"
-    }
-  ]
+  "sources": []
 }
