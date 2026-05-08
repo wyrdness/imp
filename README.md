@@ -1,292 +1,144 @@
 # Imp
 
-> *"Mischievous spirits of old, servants of witches and weavers of chaos."*
+> An imp is a small, mischievous supernatural creature from European folklore — originally a fairy-like trickster spirit that was later reinterpreted by Christianity as a minor demon or witch's familiar.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-traditional__folklore-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-08-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `imp` |
-| **Category** | DEMON_ANGEL / FAE_FOLKLORE |
-| **Classification** | Minor Demon OR Mischievous Fairy |
-| **First Recorded** | Medieval period |
-| **Primary Region** | Europe (especially England) |
-| **Status** | Traditional Folklore |
+| **Category** | DEMON_ANGEL |
+| **Subcategory** | Minor demon / mischievous spirit |
+| **First recorded** | 1300-01-01 |
+| **Primary range** | European folklore tradition, primarily Germanic and British |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-An imp is a small supernatural creature from European folklore with a dual nature depending on tradition. In demonic tradition, imps are minor demons or devil's servants, often serving witches and sorcerers as familiar spirits, typically depicted with tails, horns, and sometimes wings. In fairy tradition, imps are mischievous sprites or tricksters causing minor chaos and pranks.
-
-Standing 6 inches to 2 feet tall, imps possess powers including shape-shifting, invisibility, minor magic, and flight. Medieval demonology strongly associated imps with witchcraft, where a witch's familiar was often called an imp. The term "impish" derives from their mischievous behavior.
-
-In modern fantasy (D&D, video games), imps represent a standard lesser demon or mischievous creature type.
+An imp is a small supernatural being from European folklore, primarily Germanic and British tradition, whose character evolved significantly through the medieval period. The Old English word impa originally meant 'a young shoot or scion of a plant or tree,' then was extended to mean 'the scion of a noble house' or 'a child.' By the 16th century, phrases like 'imps of serpents' and 'imp of hell' appeared, and by the 17th century the word had settled into its dominant modern meaning: a small demon or familiar of a witch. In Germanic tradition, beings like imps were not necessarily evil; they were closer to mischievous spirits or tricksters causing minor chaos. In Christian demonology, imps became explicitly minor demons or devil's servants, often depicted as small in stature and not good-looking, sometimes with tails, horns, or wings. They were said to serve witches as familiar spirits — creatures bound to an individual sorcerer and capable of carrying out harmful or mischievous tasks. Imps are characterized as troublesome and mischievous more than seriously dangerous; fond of pranks and misleading people; and sometimes described as lonely creatures seeking human companionship. Some accounts describe imps as capable of being bound into objects such as swords or crystal balls. The Lincoln Imp legend, dating to the 14th century, is the best-documented specific imp account: the devil sent two imps to disrupt Lincoln Cathedral, one was turned to stone by an angel and is depicted in the cathedral to this day.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Familiar spirit | English / Britain | When bound to a witch or sorcerer |
+| Impa | Old English | Original form; meaning 'young shoot or scion' |
 
-### Primary Name
-- **Imp** — From Old English "ympa" (young shoot, graft), later "impa" meaning offspring or child, evolved to mean small devil or demon
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Impet | Old English | Small shoot or graft |
-| Ympē | Old English | Original form |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: DEMON_ANGEL / FAE_FOLKLORE
-├── Type: Dual Nature Entity
-├── Subtype: Minor Demon OR Mischievous Fairy
-└── Variant: European
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Familiar](/familiar) | Closely Related | Witch's familiar often identified as imp |
-| [Goblin](/goblin) | Similar | Similar mischievous creature in folklore |
-| Sprite | Similar | Fairy version shares trickster characteristics |
-| [Gremlin](/gremlin) | Descended | Modern evolution of imp concept |
+- **Origin**: Old English impa, 'a young shoot or scion of a plant.' Extended metaphorically to mean 'child' or 'scion,' then 'offspring of the devil,' then 'small demon.'
+- **Meaning**: The modern meaning of 'small mischievous demon' evolved through metaphorical extension of the horticultural term for a young plant scion. The adjective 'impish' derives from this sense of inherent mischievousness.
+- **First use**: Old English (impa, 'scion'); 16th century ('imp of hell'); 17th century (settled meaning of 'small demon / witch's familiar')
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Goblin](../goblin/) — _similar_: Small, often mischievous supernatural creature from European folklore
+- [Familiar Spirit](../familiar-spirit/) — _related_: Supernatural entity bound to serve a witch or sorcerer; imps commonly take this role
+- [Pixie](../pixie/) — _similar_: Small British fairy-like being with comparable mischievous traits
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description | Confidence |
-|-----------|-------------|------------|
-| **Height** | 0.15 - 0.6 meters (6 inches - 2 feet) | Medium |
-| **Coloration** | Red, black, gray, brown | Medium |
-| **Build** | Small humanoid, childlike or grotesque | Medium |
+- **Morphology**: Small humanoid form, typically unattractive by human standards, sometimes incorporating animal features (tail, horns, claws, wings) in Christian demonological depictions. Size estimates range widely across traditions.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Tail | Often depicted with pointed tail (demon version) | Common |
-| Horns | Small horns (demon version) | Common |
-| Wings | Bat-like or insect-like wings (demon version) | Occasional |
-| Size | Small, typically 6 inches to 2 feet | Always |
-| Appearance | Humanoid, childlike or grotesque depending on tradition | Always |
+|---|---|---|
+| Small stature | Typically depicted as much smaller than a human; some accounts place them as tiny as insects, others as child-sized | always |
+| Unattractive appearance | Often described as 'not good-looking'; may have pointed features, hunched posture, or grotesque proportions | common |
+| Tail or horns | In Christian demonological tradition, often depicted with small tail, horns, or wings reflecting their diabolic nature | common |
 
-### Dual Nature
+## Reported Abilities
 
-**Demon Imp**:
-- Grotesque features
-- Tail, horns, wings
-- Serves witch or sorcerer
-- Minor demon, devil's servant
-- Associated with witchcraft
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Mischief and pranks | Primary behavioral trait; plays tricks on humans, leads people astray, causes minor chaos | always | folklore |
+| Object binding | Accounts describe imps as being bound or contained within physical objects like swords or crystal balls | occasional | folklore |
+| Familiar service | Serves a witch or sorcerer as a bound familiar spirit, carrying out tasks including harm to the witch's enemies | common | documented |
+| Wish granting | Some accounts describe wish-granting abilities similar to genie or djinn traditions | rare | folklore |
 
-**Fairy Imp**:
-- More sprite-like appearance
-- Less threatening
-- Mischievous trickster
-- Causes minor chaos
-- Independent spirit
+## Behavior
 
-### Reported Abilities
-
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Shape-shifting | Can change form, often into animals | Folklore |
-| Invisibility | Can become invisible at will | Folklore |
-| Minor magic | Small magical tricks and pranks | Folklore |
-| Flight | Can fly (when depicted with wings) | Folklore |
-| Service to master | Carries out magical tasks for witch or sorcerer | Folklore |
-
-### Behavioral Patterns
-
-- **Activity Period**: Any time
-- **Disposition**: Mischievous
-- **Social Structure**: Solitary or servant
-- **Habitat Preference**: With master (demon version), wild places (fairy version), homes and buildings
-- **Behavior**: Performs pranks and mischief, serves witch or sorcerer (demon), causes minor trouble (fairy), can be bound to service, trickster behavior
+- **Activity**: variable
+- **Disposition**: variable
+- **Social structure**: solitary
+- **Habitat**: human settlements, churches (as disruptors), witch's home, wild places
+- **Diet**: Not consistently specified
 
 ---
+## Distribution
 
-## Geographic Distribution
+European folklore tradition, primarily Germanic and British. Most documented specific accounts originate in England.
 
-### Primary Range
+### Hotspots
 
-Traditional European folklore, particularly English, German, and broader medieval Christian demonology.
-
-**Regions**:
-- British Isles (especially England)
-- Germanic regions
-- Medieval Christian Europe
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Lincoln Cathedral | Lincolnshire, United Kingdom |  |  |
 
 ---
-
 ## Historical Timeline
 
-### Origins
-
-European folklore and medieval Christian demonology. Dual origin from both fairy traditions and demonic hierarchy.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Medieval period | Imp concept emerges | Small demons and mischievous sprites identified in folklore |
-| 1500s-1600s | Witch trial era | Imps strongly associated with witches as familiars |
-| Modern era | Fantasy literature and gaming | Imps become standard creatures in fantasy media |
+|---|---|---|
+| 1300-01-01 | Lincoln Imp legend: the devil sends two imps to disrupt Lincoln Cathedral; an angel turns one to stone; the stone figure remains in the cathedral | Best-documented specific imp legend in the historical record; dates to c. 14th century |
+| 1600-01-01 | Height of English witch trials; imp familiars feature extensively in legal testimony and demonological texts | Peak of documented familiar-spirit accounts in legal record |
 
-### Modern Era
+## Evidence
 
-Imps remain popular in fantasy literature, games (D&D, World of Warcraft), and media as minor demons or mischievous creatures. The term "impish" describes playful, mischievous behavior.
+### Physical
 
----
-
-## Cultural Significance
-
-### Medieval Demonology
-
-**Demonic Hierarchy**: In medieval Christian demonology, imps occupied the lowest rank of Hell's hierarchy. They were:
-- Minor demons given by the Devil to witches
-- Servant spirits performing magical tasks
-- Often depicted in grimoires and demonology texts
-- Associated with witchcraft and sorcery
-
-**Witch Trials**: During witch trials (especially 1500s-1600s England and Scotland):
-- Witch's familiar often called an imp
-- Imp familiars allegedly fed on witch's blood
-- Possession of imp considered evidence of witchcraft
-- Detailed testimony about imps in trial records
-
-### Fairy Folklore
-
-In fairy tradition, imps are:
-- Mischievous sprites rather than demons
-- Trickster spirits causing minor chaos
-- Not necessarily evil, just troublesome
-- Part of broader fairy/fae folklore
-
-### Popular Culture
-
-**Literature**:
-- Medieval grimoires and demonology texts
-- Fantasy literature (various)
-- Children's books featuring imps
-
-**Film/TV**:
-- Various fantasy films and shows
-- Depictions in horror media
-
-**Games**:
-- Dungeons & Dragons (imp as minor devil)
-- World of Warcraft (warlock imp companion)
-- Various fantasy RPGs and video games
-
-**Language**:
-- Term "impish" in common usage (playful, mischievous behavior)
-- Mascots and characters
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Lincoln Imp stone carving |  | Stone carving of a small demonic figure in Lincoln Cathedral, associated with the local 14th-century legend of the devil's imps being sent to disrupt the cathedral's construction. | verified |
 
 ---
-
 ## Theories & Explanations
 
-### Folklore Theories
+### Paranormal / Cryptozoological
 
-1. **Demonic Servant**
-   Imps are minor demons, lowest rank of Hell's hierarchy, given to witches by the Devil. Evidence: Medieval demonology texts, witch trial testimonies.
+**Genuine diabolical familiar** _(Medieval Catholic demonologists, Protestant witch-hunters including Matthew Hopkins)_
 
-2. **Fairy Origin**
-   Imps are type of mischievous fairy, later demonized by Christianity. Evidence: Fairy folklore parallels, pre-Christian traditions.
+Medieval Christian theology held that imps were real minor demons dispatched by the devil to serve witches, capable of causing genuine harm through their supernatural agency.
 
-### Cultural Theories
+### Skeptical
 
-1. **Folklore Fusion**
-   Imp represents merger of fairy folklore with Christian demonology. The dual nature (demon vs. fairy) reflects this fusion.
+**Pre-Christian fairy tradition reinterpreted as demonic** _(Modern folklorists and historians of religion)_
 
----
+Imps are best understood as pre-Christian trickster spirits from Germanic oral tradition that were reframed as minor demons when Christian demonology systematized folk beliefs. The 'familiar' concept in witch trials reflects forced confessions and cultural anxiety rather than real encounters.
 
-## Modern Interpretations
 
-### Fantasy Media
-Imps have become standard creatures in fantasy settings:
-- Lesser demons or devils
-- Mischievous magical creatures
-- Warlock/wizard companions
-- Comic relief or minor antagonists
+## Popular Culture
 
-### Cultural Usage
-"Impish" behavior:
-- Playful mischief
-- Childlike troublemaking
-- Harmless pranks
-- Mischievous charm
+**Literature**: Shakespeare uses 'imp' in multiple plays; Edgar Allan Poe, 'The Imp of the Perverse' (1845)
+
+**Games**: Dungeons & Dragons — imp as standard lesser demon; Doom series — imp as iconic enemy type; World of Warcraft — warlock imp familiar
+
+**Other**: Lincoln City FC uses the Lincoln Imp as its symbol; 'Impish' remains a common English adjective for mischievous behavior
 
 ---
+## Sources
 
-## API Reference
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-Machine-readable data is available in [`api.json`](api.json).
 
-### Data Access
+## How to Report a Sighting
 
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const imp = await wyrd.getPhenomenon('imp');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/imp/main/api.json
-```
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Medieval demonology texts and grimoires
-- English and Scottish witch trial records (1500s-1600s)
-- European folklore collections
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
